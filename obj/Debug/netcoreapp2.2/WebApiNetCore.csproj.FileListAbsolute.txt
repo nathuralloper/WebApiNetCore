@@ -1,0 +1,14 @@
+C:\Users\gregory.sanchez\source\repos\WebApiNetCore\WebApiNetCore\bin\Debug\netcoreapp2.2\WebApiNetCore.deps.json
+C:\Users\gregory.sanchez\source\repos\WebApiNetCore\WebApiNetCore\bin\Debug\netcoreapp2.2\WebApiNetCore.runtimeconfig.json
+C:\Users\gregory.sanchez\source\repos\WebApiNetCore\WebApiNetCore\bin\Debug\netcoreapp2.2\WebApiNetCore.runtimeconfig.dev.json
+C:\Users\gregory.sanchez\source\repos\WebApiNetCore\WebApiNetCore\bin\Debug\netcoreapp2.2\WebApiNetCore.dll
+C:\Users\gregory.sanchez\source\repos\WebApiNetCore\WebApiNetCore\bin\Debug\netcoreapp2.2\WebApiNetCore.pdb
+C:\Users\gregory.sanchez\source\repos\WebApiNetCore\WebApiNetCore\obj\Debug\netcoreapp2.2\WebApiNetCore.csprojAssemblyReference.cache
+C:\Users\gregory.sanchez\source\repos\WebApiNetCore\WebApiNetCore\obj\Debug\netcoreapp2.2\WebApiNetCore.csproj.CoreCompileInputs.cache
+C:\Users\gregory.sanchez\source\repos\WebApiNetCore\WebApiNetCore\obj\Debug\netcoreapp2.2\WebApiNetCore.RazorAssemblyInfo.cache
+C:\Users\gregory.sanchez\source\repos\WebApiNetCore\WebApiNetCore\obj\Debug\netcoreapp2.2\WebApiNetCore.RazorAssemblyInfo.cs
+C:\Users\gregory.sanchez\source\repos\WebApiNetCore\WebApiNetCore\obj\Debug\netcoreapp2.2\WebApiNetCore.AssemblyInfoInputs.cache
+C:\Users\gregory.sanchez\source\repos\WebApiNetCore\WebApiNetCore\obj\Debug\netcoreapp2.2\WebApiNetCore.AssemblyInfo.cs
+C:\Users\gregory.sanchez\source\repos\WebApiNetCore\WebApiNetCore\obj\Debug\netcoreapp2.2\WebApiNetCore.RazorTargetAssemblyInfo.cache
+C:\Users\gregory.sanchez\source\repos\WebApiNetCore\WebApiNetCore\obj\Debug\netcoreapp2.2\WebApiNetCore.dll
+C:\Users\gregory.sanchez\source\repos\WebApiNetCore\WebApiNetCore\obj\Debug\netcoreapp2.2\WebApiNetCore.pdb
